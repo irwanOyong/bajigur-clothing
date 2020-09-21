@@ -1,1 +1,0 @@
-web: gunicorn bajigur_cloth.wsgi --log-file -
